@@ -6,7 +6,14 @@ Used MobileNetV2 pre-trained model for detection, labels from imagenet dataset, 
 
 Download the dataset from [here](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset).
 
-> **_NOTE:_** Use Python version 3.11 only /n
-> **_NOTE:_** this version is not compatible with linux. So use windows only
+> **_NOTE:_** Use Python version 3.11 only & this version is not compatible with linux. So use windows only.
+
+# Installation
+
+```
+git clone https://github.com/adhokshaj-k/Real-Time-Face-Mask-Detection.git
+pip install -r requirements.txt
+
+```
 
 
