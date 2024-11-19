@@ -13,7 +13,6 @@ Download the dataset from [here](https://www.kaggle.com/datasets/omkargurav/face
 ```
 git clone https://github.com/adhokshaj-k/Real-Time-Face-Mask-Detection.git
 pip install -r requirements.txt
-
 ```
 
 
